@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+streamlit
+pickle
+matplotlib
+seaborn
+wordcloud
+langdetect
+stopwords
+wordnet
+nltk
